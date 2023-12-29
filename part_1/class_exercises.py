@@ -1,6 +1,6 @@
 ## SIMPLE CLASS DESCRIBING A PERSON WITH 2 ATTRIBUTES
 
-class Person():
+class Person(): 
     def __init__(self,name,age):
         self.name = name
         self.age = age
